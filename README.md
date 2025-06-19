@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajitha Pamula
 
-<!--
-**ajithapamula/ajithapamula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineer Intern | 💡 Innovator in Full-Stack AI Solutions  
+📍 India | 🧠 Passionate about building intelligent applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages**: Python, SQL, JavaScript
+- **AI/ML**: LangChain, Sklearn, NLP, Deep Learning, RAG
+- **Frontend**: HTML, CSS, JS, React (basic)
+- **Backend**: FastAPI, MongoDB, Google Drive API
+- **DevOps**: Azure, GCP, AWS (basic), GitHub Actions
+
+---
+
+### 🚀 Projects
+- 🔹 **AI Interview Coach** – Full-stack app with multi-agent LLM, ASR, RAG, MongoDB, scoring & emotion detection.
+- 🔹 **AI Video Interview Assistant** – Video-to-summary pipeline with compression, transcript, and LangChain-based QA.
+- 🔹 More coming soon...
+
+---
+
+### 🌱 Currently Learning
+- Vector DBs, Autonomous Agents, LLM fine-tuning
+
+---
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ajithapamula)
+- 📧 pamulaajitha04@gmail.com
