@@ -42,7 +42,7 @@ I specialize in:
 
 - 🎯 **AI Interview Coach**  
   `LangChain, Agents, RAG, ASR, MongoDB, Emotion Detection`  
-  [📂 Code](https://github.com/ajithapamula/AI-Interview-Coach)
+  [📂 Code](https://github.com/ajithapamula/ai-course-interview))
 
 - 🎥 **AI Video Interview Assistant**  
   `FastAPI, Whisper, OpenAI, Google Drive, MongoDB`  
