@@ -58,7 +58,7 @@ I specialize in:
 
 - 🛍️ **eCommerce EDA Project**  
   `Exploratory Data Analysis, Power BI, Tableau`  
-  [📂 Code Coming Soon]
+  [📂 Code](https://github.com/ajithapamula/E-commerce-EDA)
 
 ---
 
