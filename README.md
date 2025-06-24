@@ -52,10 +52,6 @@ I specialize in:
   `Scikit-learn, NLP, TF-IDF`  
   [📂 Code](https://github.com/ajithapamula/fake-news-detection)
 
-- 📈 **Churn Prediction**  
-  `Logistic Regression, Decision Trees, Scikit-learn`  
-  [📂 Code Coming Soon]
-
 - 🛍️ **eCommerce EDA Project**  
   `Exploratory Data Analysis, Power BI, Tableau`  
   [📂 Code](https://github.com/ajithapamula/E-commerce-EDA)
