@@ -100,6 +100,6 @@ I specialize in:
 
 ### 🔥 "Driven by Curiosity, Focused on Impact"
 
-> _“AI isn’t just my career — it’s my language to shape the future..”_
+> _“♥️ AI isn’t just my career — it’s my language to shape the future..”_
 
 ---
