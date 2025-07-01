@@ -9,11 +9,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LangChain+Developer+%7C+RAG+%2B+Agents+Specialist;Full-stack+AI+App+Builder+%7C+Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
+### 🚀 Live Portfolio App
+
+🎯 [**Ajitha Pamula Portfolio (Click to View)**](https://ajithapamula-ajitha-portfolio-main-nb5bxd.streamlit.app/)
 
 <p align="center">
-  🚀 <a href="https://ajithapamula-ajitha-portfolio-main-nb5bxd.streamlit.app/" target="_blank">Live Portfolio App</a>
+  <a href="https://ajithapamula-ajitha-portfolio-main-nb5bxd.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_App-Streamlit-green?logo=streamlit&style=for-the-badge" />
+  </a>
 </p>
 
+Explore my interactive AI-powered portfolio built using Python, Streamlit, and integrated with LangChain, Groq, RAG, and Agents.
 ---
 
 ### 🧑‍💻 About Me
@@ -46,7 +52,7 @@ I specialize in:
 
 - 🎯 **AI Interview Coach**  
   `LangChain, Agents, RAG, ASR, MongoDB, Emotion Detection`  
-  [📂 Code](https://github.com/ajithapamula/ai-course-interview)
+  [📂 Code](https://github.com/ajithapamula/ai-course-interview))
 
 - 🎥 **AI Video Interview Assistant**  
   `FastAPI, Whisper, OpenAI, Google Drive, MongoDB`  
