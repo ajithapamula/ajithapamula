@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LangChain+Developer+%7C+RAG+%2B+Agents+Specialist;Full-stack+AI+App+Builder+%7C+Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  🚀 <a href="https://ajithapamula-ajitha-portfolio-main-nb5bxd.streamlit.app/" target="_blank">Live Portfolio App</a>
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -42,7 +46,7 @@ I specialize in:
 
 - 🎯 **AI Interview Coach**  
   `LangChain, Agents, RAG, ASR, MongoDB, Emotion Detection`  
-  [📂 Code](https://github.com/ajithapamula/ai-course-interview))
+  [📂 Code](https://github.com/ajithapamula/ai-course-interview)
 
 - 🎥 **AI Video Interview Assistant**  
   `FastAPI, Whisper, OpenAI, Google Drive, MongoDB`  
