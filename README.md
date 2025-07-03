@@ -11,7 +11,7 @@
 </p>
 ### 🚀 Live Portfolio App
 
-🎯 [**Ajitha Pamula Portfolio (Click to View)**](https://(https://ajithapamula.streamlit.app/))
+🎯 [**Ajitha Pamula Portfolio (Click to View)**]([(https://ajithapamula.streamlit.app/](https://ajithapamula.streamlit.app/])))
 
 <p align="center">
   <a href="https://ajithapamula-ajitha-portfolio-main-nb5bxd.streamlit.app/">
