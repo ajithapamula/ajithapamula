@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  AI Engineer | Data Scientist | Full Stack AI Developer
+  AI Engineer | Data Scientist | Full Stack AI Developer | Agentic Ai
 </h3>
 
 <p align="center">
