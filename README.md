@@ -52,11 +52,11 @@ I specialize in:
 
 - 🎯 **AI Interview Coach**  
   `LangChain, Agents, RAG, ASR, MongoDB, Emotion Detection`  
-  [📂 Code](https://github.com/ajithapamula/ai-course-interview))
+  [📂 Code](https://github.com/ajithapamula/ai_evaluator))
 
 - 🎥 **AI Video Interview Assistant**  
   `FastAPI, Whisper, OpenAI, Google Drive, MongoDB`  
-  [📂 Code](https://github.com/ajithapamula/AI-Video-Interview-Assistant)
+  [📂 Code](https://github.com/ajithapamula/Ai_course_interview)
 
 - 📰 **Fake News Detection with ML**  
   `Scikit-learn, NLP, TF-IDF`  
