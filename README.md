@@ -19,7 +19,7 @@
   </a>
 </p>
 
-Explore my interactive AI-powered portfolio built using Python, Streamlit, and integrated with LangChain, Groq, RAG, and Agents.
+Explore my interactive AI-powered portfolio built using Python, Streamlit, and integrated with LangChain, Groq, RAG, and Agents With MCP.
 ---
 
 ### 🧑‍💻 About Me
