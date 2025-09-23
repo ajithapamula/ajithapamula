@@ -41,7 +41,7 @@ I specialize in:
 
 ### 🚧 Currently Working On
 
-- 🤖 **AI Interview Coach** – Multi-Agent system with LangChain, RAG, ASR, MongoDB, Emotion Detection
+- 🤖 **AI Evaluator** – Multi-Agent system with LangChain, RAG, ASR, MongoDB, Emotion Detection
 - 🔌 **Hardware Access via Python** – Sensor integration and intelligent control systems
 - 🧠 **Voice-to-Voice & Text-to-Text Conversations** – Real-time AI-powered interfaces
 - 📦 **Vector Database Optimization** – Advanced Chroma techniques for semantic search
@@ -50,7 +50,7 @@ I specialize in:
 
 ### 📂 Featured Projects
 
-- 🎯 **AI Interview Coach**  
+- 🎯 **AI Evaluator**  
   `LangChain, Agents, RAG, ASR, MongoDB, Emotion Detection`  
   [📂 Code](https://github.com/ajithapamula/ai_evaluator))
 
