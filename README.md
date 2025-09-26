@@ -1,88 +1,115 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Ajitha Pamula</h1>
-<h3 align="center">AI/ML Engineer | RAG & Agentic AI | MLOps | GenAI</h3>
+<h1 align="center">
+  Hi 👋, I'm Ajitha Pamula
+</h1>
 
----
+<h3 align="center">
+  AI Engineer | Data Scientist | Full Stack AI Developer | Agentic Ai
+</h3>
 
-## 🌟 About Me
-- 🚀 AI/ML Engineer experienced in **LLMs, RAG, Agentic AI, Multi-Agent Systems**  
-- 🛠 Skilled with **LangChain, CrewAI, LangGraph, Hugging Face, Vector DBs, FastAPI, Streamlit, MLflow, Docker**  
-- ☁️ Deploying **scalable AI apps** on AWS & Azure  
-- 🎯 Goal: Deliver **enterprise-grade AI solutions with real-world impact**  
-- 📫 Email: **pamulaajitha04@gmail.com** | 📍 Hyderabad, India  
-
----
-
-## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,fastapi,git,github,vscode" />
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LlamaIndex-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-F7931E?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LangChain+Developer+%7C+RAG+%2B+Agents+Specialist;Full-stack+AI+App+Builder+%7C+Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
+### 🚀 Live Portfolio App
 
----
+🎯 [**Ajitha Pamula Portfolio (Click to View)**](https://ajithapamula.streamlit.app/)
 
-## 🚀 Featured Projects
-
-### 🧠 [AI Evaluator](https://github.com/ajithapamula/ai_evaluator)
-*Multi-Agent Code Review & Evaluation System*  
-- Automated scoring → reduced manual effort by **70%**  
-- Built with **LangChain, LangGraph, FastAPI, MCP**  
-- Deployed on **AWS with Docker** for scalability  
-
----
-
-### 📚 [Edu-App](https://github.com/ajithapamula/Edu-App)
-*AI-Powered Voice Interview & Learning Platform*  
-- **Whisper STT → LLM → TTS pipeline** for interactive learning  
-- Auto-generated **mock tests & coding challenges**  
-- Deployed on **AWS & Azure**  
-
----
-
-### 🤖 [AI Interview Process](https://github.com/ajithapamula/AI-Interview-Process)
-*End-to-End AI-Powered Interview Automation*  
-- Conducts **mock interviews with GenAI**  
-- Provides **real-time evaluation & feedback**  
-- Integrated with **speech-to-text & NLP scoring**  
-
----
-
-### 📰 [Fake News Detection](https://github.com/ajithapamula/Fake-news-detection)
-*NLP-based misinformation detection system*  
-- Achieved **99% accuracy** on benchmark datasets  
-- Built with **scikit-learn, NLP preprocessing, ML pipelines**  
-
----
-
-## 📑 Resume
 <p align="center">
-  <a href="https://github.com/ajithapamula/ajithapamula/raw/main/Ajitha_Pamula.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20My%20Resume-blue?style=for-the-badge" />
+  <a href="https://ajithapamula-ajitha-portfolio-main-nb5bxd.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_App-Streamlit-green?logo=streamlit&style=for-the-badge" />
   </a>
 </p>
 
+Explore my interactive AI-powered portfolio built using Python, Streamlit, and integrated with LangChain, Groq, RAG, and Agents With MCP.
 ---
 
-## 📊 GitHub Stats
+### 🧑‍💻 About Me
+
+🎓 I'm a graduate in **B.Sc (Mathematics, Cloud Computing, Computer Science)**. After graduation, I pursued and completed a **Full Stack Data Science & AI certification** from Naresh IT.
+
+💼 Currently working as an **AI Engineer at Lanciere Technologies**, where I build production-level AI systems.
+
+🎨 When I'm not coding, you'll find me painting or exploring new concepts in **AI, Agents, and Multimodal Systems**.
+
+I specialize in:
+- 🧠 **Advanced RAG Architectures** – Multi-hop search, vector DBs (Chroma), hybrid retrieval
+- 🤖 **LLM Applications** – Prompt engineering, fine-tuning, context management
+- 🧰 **MLOps & Production Systems** – Using MLflow, Kubernetes, Azure/AWS
+- 🔄 **Multimodal AI** – Vision + NLP fusion, intelligent document understanding
+- 🔬 **Research-to-Production** – Implementing SOTA papers into real use cases
+
+---
+
+### 🚧 Currently Working On
+
+- 🤖 **AI Evaluator** – Multi-Agent system with LangChain, RAG, ASR, MongoDB, Emotion Detection
+- 🔌 **Hardware Access via Python** – Sensor integration and intelligent control systems
+- 🧠 **Voice-to-Voice & Text-to-Text Conversations** – Real-time AI-powered interfaces
+- 📦 **Vector Database Optimization** – Advanced Chroma techniques for semantic search
+
+---
+
+### 📂 Featured Projects
+
+- 🎯 **AI Evaluator**  
+  `LangChain, Agents, RAG, ASR, MongoDB, Emotion Detection`  
+  [📂 Code](https://github.com/ajithapamula/ai_evaluator))
+
+- 🎥 **AI Video Interview Assistant**  
+  `FastAPI, Whisper, OpenAI, Google Drive, MongoDB`  
+  [📂 Code](https://github.com/ajithapamula/Ai_course_interview)
+
+- 📰 **Fake News Detection with ML**  
+  `Scikit-learn, NLP, TF-IDF`  
+  [📂 Code](https://github.com/ajithapamula/fake-news-detection)
+
+- 🛍️ **eCommerce EDA Project**  
+  `Exploratory Data Analysis, Power BI, Tableau`  
+  [📂 Code](https://github.com/ajithapamula/E-commerce-EDA)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajithapamula&theme=radical" height="160"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chroma-ff69b4?style=flat"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://ajithapamula.streamlit.app"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ajithapamula"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pamulaajitha04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajithapamula&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajithapamula&theme=algolia&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-⭐️ From [Ajitha Pamula](https://github.com/ajithapamula)
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:pamulaajitha04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ajithapamula"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ajithapamula"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🔥 "Driven by Curiosity, Focused on Impact"
+
+> _“♥️ AI isn’t just my career — it’s my language to shape the future..”_
+
+---
