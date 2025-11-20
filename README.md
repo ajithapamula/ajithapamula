@@ -3,14 +3,16 @@
 </h1>
 
 <h3 align="center">
-  AI Engineer | Data Scientist | Full Stack AI Developer | Agentic Ai
+  AI/ML Engineer | Generative AI | Agentic AI | RAG Systems | LLM Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+LangChain+Developer+%7C+RAG+%2B+Agents+Specialist;Full-stack+AI+App+Builder+%7C+Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+LLMs+%7C+RAG+Pipelines+%7C+Agentic+AI;Expert+in+LangChain+CrewAI+LangGraph;Building+Cloud-Ready+AI+Systems+%7C+Always+Learning+🚀" alt="Typing SVG" />
 </p>
-### 🚀 Live Portfolio
 
+---
+
+### 🚀 Live Portfolio  
 🎯 **Click to View My Portfolio:**  
 👉 **[https://ajithapamula.github.io/ajitha_portfolio/](https://ajithapamula.github.io/ajitha_portfolio/)**
 
@@ -19,73 +21,105 @@
     <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
-Explore my interactive AI-powered portfolio built using Python, Streamlit, and integrated with LangChain, Groq, RAG, and Agents With MCP.
+
+Explore my interactive AI-powered portfolio built with **Streamlit, LangChain, RAG, Whisper, Groq, and Agentic AI systems**.
+
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 I'm a graduate in **B.Sc (Mathematics, Cloud Computing, Computer Science)**. After graduation, I pursued and completed a **Full Stack Data Science & AI certification** from Naresh IT.
+I’m an **AI/ML Engineer** with hands-on expertise in **LLMs, Generative AI, RAG Pipelines, Agentic AI systems, and Multi-Agent architectures**.
 
-💼 Currently working as an **AI Engineer at Lanciere Technologies**, where I build production-level AI systems.
-
-🎨 When I'm not coding, you'll find me painting or exploring new concepts in **AI, Agents, and Multimodal Systems**.
+Currently working at **Lanciere Technologies Pvt. Ltd., Hyderabad**, where I build end-to-end **production-grade AI platforms** powered by LLMs, cloud, and automation.
 
 I specialize in:
-- 🧠 **Advanced RAG Architectures** – Multi-hop search, vector DBs (Chroma), hybrid retrieval
-- 🤖 **LLM Applications** – Prompt engineering, fine-tuning, context management
-- 🧰 **MLOps & Production Systems** – Using MLflow, Kubernetes, Azure/AWS
-- 🔄 **Multimodal AI** – Vision + NLP fusion, intelligent document understanding
-- 🔬 **Research-to-Production** – Implementing SOTA papers into real use cases
+
+- 🤖 **Large Language Models (LLMs)** — Prompt engineering, RAG, tuning, multimodal pipelines  
+- 🧠 **Agentic AI Systems** — CrewAI, LangChain, LangGraph, MCP, Multi-agent orchestration  
+- 🎯 **Enterprise AI Solutions** — Autonomous evaluation systems, AI-driven learning platforms  
+- 🎥 **Multimodal AI** — Whisper STT, video/audio AI pipelines  
+- ☁️ **Cloud Deployment** — Docker, AWS, Azure, containerized microservices  
+- 📊 **ML & DL** — NLP, CV, Classification, Neural Networks  
 
 ---
 
-### 🚧 Currently Working On
+## 💼 Work Experience
 
-- 🤖 **AI Evaluator** – Multi-Agent system with LangChain, RAG, ASR, MongoDB, Emotion Detection
-- 🔌 **Hardware Access via Python** – Sensor integration and intelligent control systems
-- 🧠 **Voice-to-Voice & Text-to-Text Conversations** – Real-time AI-powered interfaces
-- 📦 **Vector Database Optimization** – Advanced Chroma techniques for semantic search
+### **AI/ML Engineer — Lanciere Technologies Pvt. Ltd.**  
+📍 Hyderabad, India | **Feb 2025 – Present**
 
----
-
-### 📂 Featured Projects
-
-- 🎯 **AI Evaluator**  
-  `LangChain, Agents, RAG, ASR, MongoDB, Emotion Detection`  
-  [📂 Code](https://github.com/ajithapamula/ai_evaluator))
-
-- 🎥 **AI Video Interview Assistant**  
-  `FastAPI, Whisper, OpenAI, Google Drive, MongoDB`  
-  [📂 Code](https://github.com/ajithapamula/Ai_course_interview)
-
-- 📰 **Fake News Detection with ML**  
-  `Scikit-learn, NLP, TF-IDF`  
-  [📂 Code](https://github.com/ajithapamula/fake-news-detection)
-
-- 🛍️ **eCommerce EDA Project**  
-  `Exploratory Data Analysis, Power BI, Tableau`  
-  [📂 Code](https://github.com/ajithapamula/E-commerce-EDA)
+- Built a **full AI-powered education platform** using LLMs, RAG, and multi-agent systems.  
+- Designed autonomous AI agents for **standups, mock interviews, adaptive assessments**.  
+- Created audio/video processing pipelines (compression, noise cancel, Whisper STT, summarization).  
+- Integrated **ChromaDB, Pinecone, FAISS** for high-performance retrieval.  
+- Built and deployed **cloud-ready microservices** using Docker on AWS & Azure.  
+- Applied ML, NLP, DL, and Computer Vision models for **personalized learning experiences**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🎓 Education
+
+**B.Sc (Mathematics, Cloud Computing, Computer Science)**  
+Government Women’s College, Guntur — **2024**  
+📊 *Graduated with 75%*
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 **AI Evaluator – Multi-Agent Code Review System**  
+`Python | LangChain | LangGraph | MCP | FastAPI | Docker | AWS`  
+- Developed an AI-driven system that automates code evaluation with **70% reduction in manual effort**.  
+- Designed multi-agent flows (Code, Design, Pitch, Aggregator) with LangGraph.  
+- Integrated real-time GitHub analysis using MCP servers.  
+- Deployed scalable microservices via Docker on AWS.  
+📂 **Code:** *(private or internal as per your resume)*
+
+---
+
+### 🎤 **AI Video Interview Assistant (Edu-App)**  
+`Whisper | GPT | FastAPI | MongoDB | PostgreSQL | Docker | Azure`  
+- Built voice-first interview simulations using **Whisper STT → LLM → TTS** pipelines.  
+- Automated MCQs, coding tests, pseudocode evaluation with LLMs.  
+- Engineered robust data pipelines with MongoDB/PostgreSQL.  
+📂 Code: https://github.com/ajithapamula/Ai_course_interview
+
+---
+
+### 🎥 **AI Video Transcription & Summarization**  
+`Whisper STT | LLM Summarization | Python`  
+- Converts long videos into **accurate transcripts and clean summaries**.  
+📂 Code: https://github.com/ajithapamula/ai-video-transcription-summarization
+
+---
+
+### 📰 **Fake News Detection – ML & NLP Pipeline**  
+`Python | scikit-learn | NLP | TF-IDF | EDA`  
+- Achieved **99% accuracy** on benchmark datasets.  
+📂 Code: https://github.com/ajithapamula/fake-news-detection
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=flat&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-black?style=flat"/>
+  <img src="https://img.shields.io/badge/CrewAI-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/LangGraph-purple?style=flat"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chroma-ff69b4?style=flat"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/ChromaDB-ff69b4?style=flat"/>
+  <img src="https://img.shields.io/badge/Pinecone-1da1f2?style=flat"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&theme=tokyonight" height="165"/>
@@ -98,7 +132,7 @@ I specialize in:
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="mailto:pamulaajitha04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
@@ -108,8 +142,6 @@ I specialize in:
 
 ---
 
-### 🔥 "Driven by Curiosity, Focused on Impact"
+### 🔥 "Driven by Curiosity, Focused on Impact"  
+> _"AI isn’t just my career — it's how I shape intelligent systems for the future."_  
 
-> _“♥️ AI isn’t just my career — it’s my language to shape the future..”_
-
----
