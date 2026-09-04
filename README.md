@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  AI/ML Engineer | Generative AI | Agentic AI | RAG Systems | LLM Developer
+   Senior AI/ML Engineer | Generative AI | Agentic AI | RAG Systems | LLM Developer
 </h3>
 
 <p align="center">
