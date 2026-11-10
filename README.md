@@ -1,419 +1,350 @@
-# 👋 Hi, I'm Ajitha Pamula
 
-<h3 align="center">Senior AI Developer | Generative AI | Agentic AI | RAG | Machine Learning</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Python+%7C+Machine+Learning+%7C+Data+Science" alt="Typing SVG" />
-</p>
+<!-- HERO SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D1F,45:142B52,100:6C3B9E&height=220&section=header&text=AJITHA%20PAMULA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20AI%20Developer%20%7C%20Generative%20AI%20%7C%20Agentic%20Systems&descAlignY=60&descSize=16" width="100%" alt="Ajitha Pamula profile banner"/>
 
-<p align="center">
-  <a href="https://ajithapamula.github.io/ajitha_portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/ajithapamula">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/ajithapamula">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<a href="https://ajithapamula.github.io/ajitha_portfolio/">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-7C5CFC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ajithapamula">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:pamulaajitha04@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/>
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=8B9DFF&center=true&vCenter=true&width=760&lines=Building+practical+AI-powered+products;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Turning+complex+workflows+into+intelligent+systems" alt="Animated introduction"/>
 
-I'm a **Senior AI Developer at Threshing Floor Group Pvt. Ltd., Hyderabad**, focused on developing intelligent applications and practical AI-powered solutions.
+<br/>
 
-I work across Generative AI, Large Language Models, Retrieval-Augmented Generation, AI Agents, Machine Learning and data-driven applications.
+<img src="https://komarev.com/ghpvc/?username=ajithapamula&style=flat-square&color=7657D5&label=PROFILE+VIEWS"/>
 
-I enjoy designing AI workflows, integrating language models with real-world applications, building backend services and exploring new ways to automate complex tasks.
-
-### My Areas of Expertise
-
-- **Generative AI:** LLM integration, prompt engineering and AI application development.
-- **Agentic AI:** AI agents, multi-agent workflows and task orchestration.
-- **RAG Systems:** Document processing, embeddings, semantic search and vector databases.
-- **Machine Learning:** Classification, NLP, feature extraction and model evaluation.
-- **Data Science:** Data cleaning, exploratory data analysis and visualization.
-- **Backend Development:** Python, FastAPI and API integration.
-- **AI Automation:** Meeting intelligence, resume analysis and intelligent recommendations.
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## `01 / PROFILE`
 
-| Category | Technologies |
-|---|---|
-| Programming | Python, SQL |
-| Data Analysis | Pandas, NumPy, Matplotlib, Seaborn |
-| Generative AI | LLMs, Prompt Engineering, Groq, GPT |
-| AI Frameworks | LangChain, LangGraph, CrewAI |
-| AI Architecture | RAG, Agentic AI, Multi-Agent Systems, MCP |
-| Machine Learning | Scikit-learn, NLP, TF-IDF, Classification |
-| Embeddings & Search | HuggingFace, Sentence Transformers, FAISS |
-| Vector Databases | ChromaDB, Pinecone |
-| Backend | FastAPI, Flask |
-| Databases | MongoDB, PostgreSQL |
-| Cloud & Deployment | AWS, Azure, Docker |
-| Document Processing | PyPDF, Python-Docx, Whisper |
+<table>
+<tr>
+<td width="62%" valign="top">
 
----
+### Hello, I'm Ajitha 👋
 
-# 🚀 Featured Projects
+I'm a **Senior AI Developer at Threshing Floor Group Pvt. Ltd., Hyderabad**, focused on building intelligent applications and practical AI-powered solutions.
 
-## 1. AI Evaluator – Autonomous Multi-Agent Hackathon Judge
+I work across **Generative AI, Large Language Models, Retrieval-Augmented Generation, Agentic AI, Machine Learning and data-driven applications**. I enjoy designing AI workflows, connecting language models with real-world products, building backend services and automating complex tasks.
 
-**Technologies:** Python, FastAPI, LangChain, LangGraph, MCP, React, Docker
+**What I focus on**
+- Designing LLM-powered applications and prompt workflows
+- Building RAG pipelines with embeddings and vector search
+- Developing multi-agent systems and tool-connected workflows
+- Creating Python APIs and AI-enabled backend services
+- Applying machine learning and data analysis to practical problems
 
-🔗 [View Repository](https://github.com/ajithapamula/ai_evaluator)
+</td>
+<td width="38%" align="center" valign="middle">
 
-An AI-powered evaluation platform that analyzes project repositories and generates structured assessments using multiple specialized AI agents.
+<img src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=62D9FA&text_color=E6EDF3&rank_icon=github" width="100%" alt="GitHub overview"/>
 
-### Key Features
-- **Code Evaluation Agent:** Examines repository structure, documentation, testing practices and CI/CD setup.
-- **Design Evaluation Agent:** Evaluates README presentation, visual structure, usability and accessibility heuristics.
-- **Pitch Evaluation Agent:** Uses an LLM to assess project descriptions and presentation quality.
-- **Judge Aggregator:** Combines individual agent results using configured weights and prompts.
-- **GitHub Integration:** Uses MCP tooling to retrieve repository and web context.
-- **Scoring Dashboard:** Presents scores, verdicts and feedback through an optional React interface.
-
-### Architecture
-Client → FastAPI → Specialized AI Agents → Judge Aggregator → Final Score and Feedback.
-
-### What This Project Demonstrates
-Multi-agent orchestration, LLM-based evaluation, API development, external tool integration and automated decision-support workflows.
+</td>
+</tr>
+</table>
 
 ---
 
-## 2. AI Career Copilot – RAG-Based Resume Intelligence
+## `02 / TECHNOLOGY TOOLKIT`
 
-**Technologies:** Python, FastAPI, Streamlit, LangChain, Groq, Llama 3.1, ChromaDB, HuggingFace
+<div align="center">
 
-🔗 [View Repository](https://github.com/ajithapamula/ai-career-copilot)
+### AI · LLMs · Agentic Systems
 
-An AI-powered resume analysis application that allows users to upload resumes, extract information and interact with their documents through a conversational interface.
+<img src="https://img.shields.io/badge/Generative_AI-7B61FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-20232A?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-6A4C93?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-315C9B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-394B59?style=for-the-badge"/>
 
-### Key Features
-- Upload and process PDF resumes.
-- Extract resume content using PDF parsing.
-- Split documents into smaller text chunks.
-- Generate embeddings using HuggingFace models.
-- Store and retrieve contextual information using ChromaDB.
-- Use Retrieval-Augmented Generation to answer questions.
-- Integrate Groq's Llama 3.1 for low-latency responses.
-- Support multiple resumes using unique document identifiers.
-- Provide an interactive chat experience using Streamlit.
+### Programming · Data · Machine Learning
 
-### RAG Workflow
-Resume Upload → PDF Extraction → Text Chunking → Embeddings → ChromaDB → Semantic Retrieval → LLM Response.
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-### What This Project Demonstrates
-Document intelligence, vector search, RAG pipeline design, prompt engineering and full-stack GenAI application development.
+### Backend · Storage · Cloud
 
----
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-5B4BDB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-## 3. AI Video Transcription & Summarization
-
-**Technologies:** Python, FastAPI, OpenAI Whisper, GPT-4, FFmpeg, MongoDB, AWS S3, Graphviz
-
-🔗 [View Repository](https://github.com/ajithapamula/ai-video-transcription-summarization)
-
-An AI-powered video processing service that converts uploaded videos into transcripts, multilingual subtitles, structured summaries and visual mind maps.
-
-### Key Features
-- Upload videos through a REST API.
-- Extract audio and perform noise reduction using FFmpeg.
-- Convert speech into text using OpenAI Whisper.
-- Generate subtitles in English, Hindi and Telugu.
-- Create AI-generated technical summaries using GPT-4.
-- Generate visual mind maps using Graphviz.
-- Export transcripts and summaries as Word documents.
-- Upload generated files to AWS S3.
-- Store processing metadata and file references in MongoDB.
-
-### Processing Workflow
-Video Upload → Audio Extraction → Noise Reduction → Whisper Transcription → AI Summarization → Subtitle Generation → Mind Map → Document Export.
-
-### Real-World Applications
-Meeting documentation, lecture summaries, training videos, knowledge-base creation and automated technical documentation.
+</div>
 
 ---
 
-## 4. Meeting Intelligence Agents – Multi-Agent Meeting Assistant
+## `03 / SELECTED PROJECTS`
 
-**Technologies:** Python, Multi-Agent Architecture, MCP, LLM Integration
+> A selection of AI, machine learning and data projects. Explore the repositories for implementation details and source code.
 
-🔗 [View Repository](https://github.com/ajithapamula/Meeting-Intelligence-Agents)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An intelligent meeting assistant designed to convert meeting transcripts into structured notes, summaries and actionable tasks.
+### 🧠 AI Evaluator
+**Autonomous Multi-Agent Hackathon Judge**
 
-### Specialized Agents
-- **Note Agent:** Extracts important discussion points.
-- **Action Agent:** Identifies tasks, deadlines and responsible team members.
-- **Summary Agent:** Generates concise meeting summaries.
-- **Coordinator Agent:** Manages the workflow and coordinates the agents.
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=flat&logo=github)](https://github.com/ajithapamula/ai_evaluator)
 
-### Key Features
-- Accept meeting transcripts through files or live text input.
-- Automatically identify discussion points.
-- Extract action items and deadlines.
-- Generate structured meeting summaries.
-- Save reports using MCP-integrated tools.
-- Support task tracking and email workflow simulations.
+A multi-agent evaluation platform that reviews project repositories and generates structured assessments.
 
-### Real-World Applications
-Corporate meetings, HR discussions, project management, team coordination and productivity automation.
+- Code agent reviews repository structure, documentation, tests and CI/CD.
+- Design agent assesses presentation, usability and accessibility heuristics.
+- Pitch agent evaluates project descriptions and presentation content.
+- Judge aggregator combines agent outputs using configured weights.
+- MCP integrations provide GitHub and web context.
+- FastAPI endpoints expose scoring results; an optional React dashboard presents feedback.
 
----
+**Stack:** Python · FastAPI · LangChain · LangGraph · MCP · React
 
-## 5. Creator–Brand Matching Engine – AI Recommendation System
+</td>
+<td width="50%" valign="top">
 
-**Technologies:** Python, FastAPI, Sentence-BERT, FAISS, MLflow, Docker
+### 📄 AI Career Copilot
+**RAG-Based Resume Intelligence**
 
-🔗 [View Repository](https://github.com/ajithapamula/creator-brand-matching-engine)
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=flat&logo=github)](https://github.com/ajithapamula/ai-career-copilot)
 
-An AI-powered recommendation system that matches brands with relevant social media creators using semantic similarity and engagement-based ranking.
+A conversational resume assistant that retrieves relevant information from uploaded PDF documents.
 
-### Key Features
-- Convert creator biographies and brand descriptions into embeddings.
-- Generate semantic representations using Sentence-BERT.
-- Perform vector similarity search using FAISS.
-- Rank creators based on semantic relevance and engagement metrics.
-- Provide REST APIs through FastAPI.
-- Add and update creator records through API endpoints.
-- Track experiments and retrieval metrics using MLflow.
-- Include Docker support for containerized deployment.
+- Extracts and chunks resume content.
+- Creates embeddings with HuggingFace models.
+- Stores document vectors in ChromaDB.
+- Retrieves relevant context for user questions.
+- Uses Groq's Llama 3.1 for generated responses.
+- Supports multiple resumes with unique document identifiers.
+- Provides a Streamlit chat interface and FastAPI backend.
 
-### Matching Workflow
-Brand Description → Sentence-BERT Embeddings → FAISS Search → Engagement-Based Ranking → Top Creator Recommendations.
+**Stack:** Python · LangChain · ChromaDB · HuggingFace · Groq · FastAPI
 
-### What This Project Demonstrates
-Semantic search, recommendation systems, embedding-based retrieval, ranking algorithms and ML model monitoring.
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-## 6. CareerBoost AI – Intelligent Resume Analyzer & Builder
+### 🎬 AI Video Intelligence
+**Transcription & Summarization**
 
-**Technologies:** Python, Flask, spaCy, Sentence Transformers, PyPDF2, MongoDB
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=flat&logo=github)](https://github.com/ajithapamula/ai-video-transcription-summarization)
 
-🔗 [View Repository](https://github.com/ajithapamula/carrerBoost_Ai)
+A video-processing workflow that transforms uploaded videos into transcripts, subtitles, summaries and mind maps.
 
-An AI-powered resume analyzer that helps candidates understand how well their resumes match specific job descriptions.
+- Extracts and processes audio with FFmpeg.
+- Transcribes speech using Whisper.
+- Generates English, Hindi and Telugu subtitles.
+- Creates summaries using GPT-4.
+- Produces visual mind maps with Graphviz.
+- Exports Word reports and stores files in AWS S3.
+- Saves processing metadata in MongoDB.
 
-### Key Features
-- Upload resumes in PDF, DOCX and TXT formats.
-- Extract resume information automatically.
-- Compare resume content with job descriptions.
-- Use semantic similarity to identify relevant skills.
-- Highlight missing or incomplete resume sections.
-- Generate an ATS-style matching score based on embeddings.
-- Customize extracted resume content.
-- Export resumes as PDF or HTML.
+**Stack:** Python · FastAPI · Whisper · GPT-4 · FFmpeg · Graphviz · AWS S3
 
-### What This Project Demonstrates
-Resume parsing, NLP, semantic similarity, document processing and AI-assisted career tools.
+</td>
+<td width="50%" valign="top">
 
----
+### 🤝 Meeting Intelligence Agents
+**Multi-Agent Meeting Assistant**
 
-## 7. Fake News Detection – Machine Learning & NLP
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=flat&logo=github)](https://github.com/ajithapamula/Meeting-Intelligence-Agents)
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, TF-IDF, Matplotlib
+A multi-agent assistant that converts meeting transcripts into useful notes and follow-up actions.
 
-🔗 [View Repository](https://github.com/ajithapamula/Fake-news-detection)
+- Note Agent extracts discussion points.
+- Action Agent identifies tasks, deadlines and owners.
+- Summary Agent creates concise meeting summaries.
+- Coordinator Agent manages the agent workflow.
+- MCP tools support report saving and simulated email/task workflows.
+- Accepts file-based or live text input.
 
-A machine learning application that classifies news content as real or fake using text preprocessing and NLP techniques.
+**Stack:** Python · Multi-Agent Architecture · MCP · LLM Integration
 
-### Key Features
-- Clean raw text using regular expressions.
-- Convert text into numerical features using TF-IDF.
-- Train and compare multiple classification algorithms.
-- Implement Logistic Regression, Decision Tree, Random Forest and Gradient Boosting.
-- Evaluate models using accuracy, precision, recall and F1-score.
-- Provide a manual testing interface for user-entered news content.
+</td>
+</tr>
 
-### ML Workflow
-Text Dataset → Preprocessing → TF-IDF Vectorization → Model Training → Evaluation → News Classification.
+<tr>
+<td width="50%" valign="top">
 
-### What This Project Demonstrates
-Text classification, NLP preprocessing, feature engineering and machine learning model evaluation.
+### 🎯 Creator–Brand Matching Engine
+**Semantic AI Recommendation System**
 
----
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=flat&logo=github)](https://github.com/ajithapamula/creator-brand-matching-engine)
 
-## 8. E-commerce Consumer Behavior Analysis
+A recommendation engine that matches brands with creators using semantic relevance and engagement signals.
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
+- Encodes brand descriptions and creator bios with Sentence-BERT.
+- Uses FAISS for vector similarity search.
+- Ranks candidates using similarity and engagement metrics.
+- Exposes recommendation and creator upsert APIs.
+- Uses MLflow for experiment tracking.
+- Includes Docker support.
 
-🔗 [View Repository](https://github.com/ajithapamula/E-commerce-EDA)
+**Stack:** Python · FastAPI · Sentence-BERT · FAISS · MLflow · Docker
 
-An exploratory data analysis project focused on understanding customer shopping patterns and product performance using e-commerce data.
+</td>
+<td width="50%" valign="top">
 
-### Key Features
-- Analyze order distributions by day and time.
-- Identify popular products and product categories.
-- Study customer reorder patterns.
-- Analyze cart behavior and product ranking.
-- Group customers based on order frequency.
-- Generate charts and visualizations to identify purchasing trends.
+### 🧾 CareerBoost AI
+**Resume Analyzer & Builder**
 
-### What This Project Demonstrates
-Data cleaning, exploratory data analysis, customer behavior analysis, data visualization and insight generation.
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=flat&logo=github)](https://github.com/ajithapamula/carrerBoost_Ai)
 
----
+An AI-assisted resume tool for extracting resume content and comparing it with job descriptions.
 
-## 🎤 AI Video Interview Assistant
+- Accepts PDF, DOCX and TXT resumes.
+- Extracts resume information and sections.
+- Compares resume content with job descriptions.
+- Uses semantic similarity to identify relevant skills.
+- Highlights missing or incomplete sections.
+- Exports customized resumes as PDF or HTML.
 
-**Technologies:** Python, Whisper, GPT, FastAPI, MongoDB, PostgreSQL, Docker
+**Stack:** Python · Flask · spaCy · Sentence Transformers · PyPDF2
 
-🔗 [View Repository](https://github.com/ajithapamula/ai-course-interview)
+</td>
+</tr>
 
-An AI-powered interview assistant designed to support voice-based interview simulations and automated candidate assessments.
+<tr>
+<td width="50%" valign="top">
 
-### Key Capabilities
-- Voice-based interview workflows using speech-to-text and LLM processing.
-- Automated multiple-choice question workflows.
-- Coding and pseudocode evaluation.
-- Integration with backend APIs and databases.
-- AI-assisted interview assessment.
+### 📰 Fake News Detection
+**Machine Learning & NLP Classification**
 
----
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=flat&logo=github)](https://github.com/ajithapamula/Fake-news-detection)
 
-# 🎓 Education
+A text-classification project that predicts whether news content is real or fake.
 
-**B.Sc. – Mathematics, Cloud Computing and Computer Science**  
-Government Women's College, Guntur  
-2024 | 75%
+- Cleans text using preprocessing and regular expressions.
+- Converts text into features using TF-IDF.
+- Compares Logistic Regression, Decision Tree, Random Forest and Gradient Boosting.
+- Evaluates models using accuracy, precision, recall and F1-score.
+- Includes a manual text-testing interface.
 
----
+**Stack:** Python · Pandas · NumPy · Scikit-learn · TF-IDF
 
-# 📜 Certifications
+</td>
+<td width="50%" valign="top">
 
-- Data Analysis with Python – Cognitive Class | February 2025
-- Data Analytics Essentials – Cisco | February 2025
+### 🛍️ E-commerce Consumer Behavior
+**Exploratory Data Analysis**
 
----
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=flat&logo=github)](https://github.com/ajithapamula/E-commerce-EDA)
 
-# 🌐 Portfolio & Professional Links
+An analysis of shopping patterns, product demand and customer ordering behavior.
 
-<p align="center">
-  <a href="https://ajithapamula.github.io/ajitha_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-blue?style=for-the-badge&logo=googlechrome" />
-  </a>
-  <a href="https://www.linkedin.com/in/ajithapamula">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/ajithapamula">
-    <img src="https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+- Studies order patterns by day and time.
+- Identifies popular products and departments.
+- Explores reorder and cart behavior.
+- Groups customers by order frequency.
+- Uses charts to communicate purchasing trends.
 
-📧 **Email:** pamulaajitha04@gmail.com
+**Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn
 
----
+</td>
+</tr>
 
-# 📊 GitHub Statistics
+<tr>
+<td colspan="2" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajithapamula&theme=tokyonight" height="165" />
-</p>
+### 🎤 AI Video Interview Assistant
+**Voice-Based Interview & Assessment Application**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajithapamula&theme=algolia&margin-w=15&margin-h=15" />
-</p>
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE-181717?style=flat&logo=github)](https://github.com/ajithapamula/ai-course-interview)
 
----
+An AI interview assistant supporting voice-based interview workflows, automated MCQs, coding and pseudocode evaluation, and backend data integration.
 
-<p align="center">
-  <b>Building intelligent solutions. Exploring emerging technologies. Creating impact with AI. 🚀</b>
-</p>- Built and deployed **cloud-ready microservices** using Docker on AWS & Azure.  
-- Applied ML, NLP, DL, and Computer Vision models for **personalized learning experiences**.
+**Stack:** Python · Whisper · GPT · FastAPI · MongoDB · PostgreSQL · Docker
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education
+## `04 / GITHUB ANALYTICS`
 
-**B.Sc (Mathematics, Cloud Computing, Computer Science)**  
-Government Women’s College, Guntur — **2024**  
-📊 *Graduated with 75%*
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=62D9FA&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
 
-## 🚀 Featured Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithapamula&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=E6EDF3" alt="Most used languages"/>
 
-### 🔥 **AI Evaluator – Multi-Agent Code Review System**  
-`Python | LangChain | LangGraph | MCP | FastAPI | Docker | AWS`  
-- Developed an AI-driven system that automates code evaluation with **70% reduction in manual effort**.  
-- Designed multi-agent flows (Code, Design, Pitch, Aggregator) with LangGraph.  
-- Integrated real-time GitHub analysis using MCP servers.  
-- Deployed scalable microservices via Docker on AWS.  
-📂 **Code:** *(private or internal as per your resume)*
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajithapamula&hide_border=true&background=0D1117&ring=9B8CFF&fire=62D9FA&currStreakLabel=E6EDF3&sideLabels=9B8CFF&dates=8B949E" alt="Contribution streak"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajithapamula&bg_color=0D1117&color=9B8CFF&line=62D9FA&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ajithapamula&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="GitHub trophies"/>
+
+</div>
 
 ---
 
-### 🎤 **AI Video Interview Assistant (Edu-App)**  
-`Whisper | GPT | FastAPI | MongoDB | PostgreSQL | Docker | Azure`  
-- Built voice-first interview simulations using **Whisper STT → LLM → TTS** pipelines.  
-- Automated MCQs, coding tests, pseudocode evaluation with LLMs.  
-- Engineered robust data pipelines with MongoDB/PostgreSQL.  
-📂 Code: https://github.com/ajithapamula/Ai_course_interview
+## `05 / EDUCATION & CERTIFICATIONS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
+
+**B.Sc. — Mathematics, Cloud Computing and Computer Science**
+
+Government Women's College, Guntur
+
+2024 · 75%
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+
+- Data Analysis with Python — Cognitive Class · February 2025
+- Data Analytics Essentials — Cisco · February 2025
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎥 **AI Video Transcription & Summarization**  
-`Whisper STT | LLM Summarization | Python`  
-- Converts long videos into **accurate transcripts and clean summaries**.  
-📂 Code: https://github.com/ajithapamula/ai-video-transcription-summarization
+## `06 / LET'S CONNECT`
 
----
+<div align="center">
 
-### 📰 **Fake News Detection – ML & NLP Pipeline**  
-`Python | scikit-learn | NLP | TF-IDF | EDA`  
-- Achieved **99% accuracy** on benchmark datasets.  
-📂 Code: https://github.com/ajithapamula/fake-news-detection
+I'm always interested in connecting with people working on AI, Generative AI, machine learning and software engineering.
 
----
+<a href="mailto:pamulaajitha04@gmail.com"><img src="https://img.shields.io/badge/Email-pamulaajitha04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 🛠️ Tech Stack & Tools
+<a href="https://www.linkedin.com/in/ajithapamula"><img src="https://img.shields.io/badge/LinkedIn-Ajitha%20Pamula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat"/>
-  <img src="https://img.shields.io/badge/CrewAI-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/LangGraph-purple?style=flat"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/ChromaDB-ff69b4?style=flat"/>
-  <img src="https://img.shields.io/badge/Pinecone-1da1f2?style=flat"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql"/>
-</p>
+<a href="https://github.com/ajithapamula"><img src="https://img.shields.io/badge/GitHub-ajithapamula-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
----
+<a href="https://ajithapamula.github.io/ajitha_portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7657D5?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-## 📈 GitHub Stats
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajithapamula&theme=tokyonight" height="165"/>
-</p>
+**“Building intelligent solutions. Exploring emerging technologies. Creating impact with AI.”** 🚀
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajithapamula&theme=algolia&margin-w=15&margin-h=15"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3B9E,50:142B52,100:090D1F&height=110&section=footer" width="100%" alt="Footer banner"/>
 
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:pamulaajitha04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ajithapamula"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ajithapamula"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 🔥 "Driven by Curiosity, Focused on Impact"  
-> _"AI isn’t just my career — it's how I shape intelligent systems for the future."_  
+</div>
