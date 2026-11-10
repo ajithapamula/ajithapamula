@@ -52,7 +52,7 @@ I enjoy designing AI workflows, connecting language models with real-world produ
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=62D9FA&text_color=E6EDF3&rank_icon=github" width="100%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics"/>
 
 </td>
 </tr>
@@ -275,13 +275,13 @@ I enjoy designing AI workflows, connecting language models with real-world produ
 
 ### GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=62D9FA&text_color=E6EDF3&rank_icon=github" width="48%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ajithapamula&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithapamula&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=E6EDF3" width="48%" alt="Top programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithapamula&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top programming languages"/>
 
 ### Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajithapamula&hide_border=true&background=0D1117&ring=9B8CFF&fire=62D9FA&currStreakLabel=E6EDF3&sideLabels=9B8CFF&dates=8B949E" width="75%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=ajithapamula&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak"/>
 
 </div>
 
