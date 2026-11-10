@@ -1,5 +1,5 @@
 
-name: Generate GitHub Contribution Snake
+name: Update GitHub Profile
 
 on:
   schedule:
@@ -10,11 +10,24 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  update-profile:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake Animation
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Statistics Cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ajithapamula
+          cards: overview,languages
+          output-dir: assets
+          themes: light,dark
+          commit: true
+
+      - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ajithapamula
@@ -22,7 +35,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
